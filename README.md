@@ -65,7 +65,7 @@ The design uses VLAN segmentation, IPv4 addressing, subnetting, routing, redunda
 
 The project follows a **three-tier hierarchical network architecture**.
 
-``
+```text
                          INTERNET / CLOUD
                                 |
                               Router
@@ -84,7 +84,7 @@ The project follows a **three-tier hierarchical network architecture**.
       Switches        Switches      Switches        Switches
           |              |              |              |
        PCs/APs        PCs/APs      PCs/APs        PCs/APs
-
+```
 
 ## Core Layer
 
